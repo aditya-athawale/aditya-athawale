@@ -1,92 +1,98 @@
-# Hi there, I'm Aditya Athawale 👋  
-
-💻 *Software Engineering Diploma Student | Web Development & Python Enthusiast | Aspiring Backend Developer*  
-
-📍 Mumbai, India  
+<!-- Profile Banner -->
+<h1 align="center">Hi 👋, I'm Aditya Athawale</h1>
+<h3 align="center">💻 Software Engineering Student | Web Dev & Python Enthusiast | Future Backend Developer 🚀</h3>
 
 ---
 
 ## 🌟 About Me  
-I’m currently pursuing a **Diploma in Information Technology (2024 – Present)** at Vidyalankar Polytechnic.  
-I am passionate about **software development, web technologies, and database management**.  
-My goal is to gain practical experience through **internships**, apply my skills to real-world projects, and grow in a dynamic environment 🚀.  
+
+- 🔭 Currently pursuing a **Diploma in Information Technology (2024 – Present)** at Vidyalankar Polytechnic  
+- 🌱 Learning **Backend Development, Web Technologies, and Cybersecurity**  
+- 👨‍💻 Passionate about **building real-world projects** and contributing to **open-source**  
+- 🎯 Goal: Become a skilled **Backend Engineer** with strong **database & security knowledge**  
+- ⚡ Fun Fact: *I believe in "Learning every day, building every day!"*  
 
 ---
 
-## 💼 Experience  
+## 🛠️ Tech Stack  
 
-### JPMorgan Chase & Co. – Software Engineering Virtual Experience (May 2025)  
-🔗 [Certificate/Details](LINK)  
-- Simulated real-world backend development tasks.  
-- Worked on **Kafka integration** for real-time data streaming.  
-- Implemented **H2 database** for in-memory management.  
-- Developed **REST APIs and controllers**.  
+### 💻 Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
----
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 
-### Tata Consultancy Services – Cybersecurity Analyst Simulation (Apr 2025)  
-🔗 [Certificate/Details](LINK)  
-- Focused on **Identity & Access Management (IAM)**.  
-- Learned **cybersecurity best practices** and IAM principles.  
-- Created documentation & presentations for technical solutions.  
-
----
-
-### Electronic Arts – Software Engineering Virtual Experience (Apr 2025)  
-🔗 [Certificate/Details](LINK)  
-- Proposed a new feature for **EA Sports College Football**.  
-- Built a **class diagram and C++ header files**.  
-- Patched a bugfix and optimized data structures.  
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 ---
 
-### Skyscanner – Software Engineering Simulation (May 2025)  
-🔗 [Certificate/Details](LINK)  
-- Built a **Dropwizard microservice** for car rentals & hotels.  
-- Developed an **Android app** for flight itineraries using **Backpack**.  
+## 📂 Featured Projects  
 
----
+🚀 **[Aditya Fitness Lab](https://github.com/aditya-athawale/aditya-fitness-lab)**  
+*Your fitness website project with workout plans (Beginner, Intermediate, Pro).*  
 
-## 🎓 Education  
-- **Diploma in Information Technology (2024 – Present)** – Vidyalankar Polytechnic  
-- **Higher Secondary Certificate – Science (2023)** – Bhavans College (44%)  
-- **Secondary School Certificate (2020)** – St. Xavier’s High School (78.40%)  
+🛒 **E-Commerce Web Application** *(Private Repo)*  
+*Full-stack project with product listings, cart, and checkout system.*  
 
----
+📑 **CRM + Invoice Management System** *(Private Repo)*  
+*PHP-based system with client services, billing, and automated invoices.*  
 
-## 🛠️ Skills  
-
-**Languages:** Python | Java | C++  
-**Web Development:** HTML | CSS | JavaScript  
-**Databases:** MySQL | SQL  
-**Tools & Platforms:** Git | VS Code | Windows | Linux  
-**Networking & Security:** Computer Networks (Basics), Cybersecurity Fundamentals  
-
----
-
-## 📜 Certifications  
-- OOPs Concepts in C++ (Turbo C++)  
-- Oracle SQL  
-- Computer Architecture: Digital Logic Circuits  
-- HTML & Front-End Development  
-- Python for Beginners  
-- TCS iON Career Edge - Young Professional  
+🎴 **Tarot Website for Vishakha Dhage**  
+*Creative tarot-themed website with animations and mystical UI.*  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-athawale&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-athawale&show_icons=true&theme=radical" alt="stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-athawale&theme=radical" alt="streak" width="48%"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-athawale&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-athawale&theme=react-dark&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+## 🎓 Virtual Experience Programs  
+
+- 🏦 JPMorgan Chase – Software Engineering (Kafka, REST APIs, H2 Database)  
+- 🔒 TCS – Cybersecurity Analyst (IAM, Security Principles)  
+- 🎮 Electronic Arts – Software Engineering (C++, Feature Proposal, Bug Fix)  
+- ✈️ Skyscanner – Web & Mobile Development (Dropwizard, Android App)  
+
+---
+
+## 🏅 Certifications  
+
+- OOPs Concepts in C++ (Turbo C++)  
+- Oracle SQL  
+- HTML & Front-End Development  
+- Python for Beginners  
+- Digital Logic Circuits  
+- TCS iON Career Edge – Young Professional  
 
 ---
 
 ## 🌐 Connect with Me  
 
-- 📧 Email: **athawaleaditya786@gmail.com**  
-- 💼 LinkedIn: [Aditya Athawale](LINK)  
-- 🔗 GitHub: [Aditya Athawale](https://github.com/aditya-athawale)  
+<p align="center">
+  <a href="mailto:athawaleaditya786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/aditya-athawale"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
-✨ *“Learning every day, building every day!”* ✨  
+
+✨ *“Transforming ideas into code, one commit at a time.”* ✨
