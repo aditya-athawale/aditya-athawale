@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 
-- 🔭 Currently pursuing a **Diploma in Information Technology (2024 – Present)** at Vidyalankar Polytechnic  
+- 🔭 Currently pursuing a **Diploma in Information Technology (Completed)** at Vidyalankar Polytechnic  
 - 🌱 Learning **Backend Development, Web Technologies, and Cybersecurity**  
 - 👨‍💻 Passionate about **building real-world projects** and contributing to **open-source**  
 - 🎯 Goal: Become a skilled **Backend Engineer** with strong **database & security knowledge**  
